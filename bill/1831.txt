@@ -1,0 +1,24 @@
+WELCOME TO SUPERMARKET BILLING STATION                                      
+Bill Number:1831
+Customer Name:sanu
+Customer Email:sanu@gmail.com
+Phone Number:9131142691
+=========================================
+Products 		QTY		Price
+=========================================
+Maaza		1		40
+Maaza		1		40
+Thumsup		1		40
+Sprite		1		40
+Oreo		1		50
+Unibic		1		65
+Flying_Machine		1		2000
+GAP 		1		2000
+Pears		1		120
+Nivea		1		190
+
+========================================
+Sub_Amount:				Rs.4585.00
+Tax_Amount:				Rs.43.95
+Total_Amount:				Rs.4628.95
+========================================

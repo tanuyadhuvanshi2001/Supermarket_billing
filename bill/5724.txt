@@ -1,0 +1,16 @@
+WELCOME TO SUPERMARKET BILLING STATION                                      
+Bill Number:5724
+Customer Name:vabhav
+Customer Email:vaibhavkurmi7864
+Phone Number:589843254
+=========================================
+Products 		QTY		Price
+=========================================
+Flying_Machine		1		2000
+US_Polo		1		950
+
+========================================
+Sub_Amount:				Rs.2950.00
+Tax_Amount:				Rs.20.00
+Total_Amount:				Rs.2970.00
+========================================

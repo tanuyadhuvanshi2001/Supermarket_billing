@@ -1,0 +1,18 @@
+WELCOME TO SUPERMARKET BILLING STATION                                      
+Bill Number:7804
+Customer Name:asgfasfdg
+Customer Email:54sadfgasdgasd
+Phone Number:9662145674654
+=========================================
+Products 		QTY		Price
+=========================================
+Louis_Phillipe		1		1200
+Ether		1		800
+Wrogn		1		2500
+Polo		1		2500
+
+========================================
+Sub_Amount:				Rs.7000.00
+Tax_Amount:				Rs.45.00
+Total_Amount:				Rs.7045.00
+========================================
